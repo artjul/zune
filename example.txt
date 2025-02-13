@@ -1,4 +1,6 @@
 <?php
+	// To test, change the file format to ".php".
+
 	// This is a basic example of how to implement an SEO-optimized single-page application (SPA).
 	// In this example, "data-it" attributes are used to assign variables, but you can define everything in a configuration file.
 
