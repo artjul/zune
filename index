@@ -1,6 +1,8 @@
 <?php
 	// To test, change the file format to ".php".
 
+	// For proper functionality, don't forget to configure this on the server as part of the Front Controller Pattern or SPA Fallback.
+
 	// This is a basic example of how to implement an SEO-optimized single-page application (SPA).
 	// In this example, "data-it" attributes are used to assign variables, but you can define everything in a configuration file.
 
