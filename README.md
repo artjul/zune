@@ -1,10 +1,14 @@
-# Zune - The Next-Gen JavaScript Meta-Library
+# Zune
+
+The Next-Gen JavaScript Meta-Library.
+Create Differently! Everything is simpler than it looks.
 
 ## Getting Started
 
 Read the official documentation at [zune.dev](https://zune.dev)!
 
-This library is provided in a minified version only. However, you are free to modify it as you wish and use it for any purpose, including commercial projects.
+This library is provided in a minified version only. 
+However, you are free to modify it as you wish and use it for any purpose, including commercial projects.
 
 ## Sponsors
 
