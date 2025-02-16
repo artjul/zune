@@ -1,0 +1,41 @@
+{
+  "name": "zune",
+  "version": "1.0.0",
+  "description": "The Next-Gen JavaScript Meta-Library.",
+  "type": "module",
+  "main": "zune/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "front-end",
+    "library",
+    "meta-library",
+    "framework",
+    "ui",
+    "component",
+    "modular",
+    "performance",
+    "customizable",
+    "progressive",
+    "lightweight"
+  ],
+  "author": "Artem Ko",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artjul/zune.git"
+  },
+  "homepage": "https://zune.dev",
+  "files": [
+    "zune/",
+    "index",
+    "LICENSE",
+    "README.md"
+  ],
+  "funding": {
+    "type": "ko_fi",
+    "url": "https://ko-fi.com/artjul"
+  }
+}

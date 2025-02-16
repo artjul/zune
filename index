@@ -101,6 +101,6 @@
             <?= $currentPage['content'] ?>
         </div>
     </main>
-    <script src="/zune/app.js?cache=true" type="module"></script>
+    <script src="/zune/app.js?cache=false" type="module"></script>
 </body>
 </html>
