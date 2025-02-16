@@ -8,7 +8,7 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    name: PR/Release
+    name: Auto-Publish
     permissions:
         id-token: write
         contents: read
@@ -34,7 +34,7 @@ jobs:
           git config --global user.signingkey "$KEY_ID"
           git config --global commit.gpgsign true
           echo "GPG key imported and set for Git"
-
+          
       - name: Install dependencies
         run: npm ci
 
