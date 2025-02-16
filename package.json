@@ -1,6 +1,6 @@
 {
   "name": "zune",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "The Next-Gen JavaScript Meta-Library.",
   "type": "module",
   "main": "zune/app.js",
