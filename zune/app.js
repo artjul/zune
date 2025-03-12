@@ -1,5 +1,5 @@
 /*!
-	* Zune v1.0.7
+	* Zune v1.0.8
 	* Copyright (c) 2025 Artem Ko
 	* Released under the MIT License
 	* https://opensource.org/license/MIT
